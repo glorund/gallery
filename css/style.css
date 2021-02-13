@@ -1,5 +1,8 @@
 body {
   font-family: 'Lato', 'Helvetica', 'Verdana', sans-serif;
+  color: #313B41;
+  font-family: Ortica Light;
+  background-color: #f7f7f2;
 }
 
 #container {
@@ -15,7 +18,7 @@ body {
   font-size: 30px;
   font-weight: 900;
   letter-spacing: 3px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 section {
